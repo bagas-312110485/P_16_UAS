@@ -10,7 +10,9 @@
 **Model**
 
 Daftar_nilai
-    tambah data
+
+
+>tambah data
         
 *   data = {} untuk menampung list data yang nanti akan terinput
 *   deklarasikan fungsi def tambah_data():
