@@ -5,7 +5,7 @@
 
 ![Gambar 1](png/Soal.png)
 
-[flowchart](flowchart(1).pdf)
+[flowchart](flowchart.pdf)
 
 **Penjelasan:**
 
